@@ -1,23 +1,3 @@
-a.navbar-brand {
-    color: #ffffff !important;
+p .light {
+    text-align: justify;
 }
-
-a.nav-link {
-    color: #ffffff !important;
-    text-align: center;
-}
-
-.navbar-dark .navbar-toggler {
-    border: none;
-    border-color: none !important;
-    color: none !important;
-}
-
-
-
-
-
-
-
-/* desktop version */
-@media (min-width: 992px) {}
